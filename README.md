@@ -6,7 +6,7 @@ EYPOOL
 ### 1) Get the source code
 
 ```
-$ git clone https://github.com/EIYARO/corepool.git $GOPATH/src/github.com/EIYARO/corepool
+$ git clone https://github.com/EIYARO-Project/corepool.git $GOPATH/src/github.com/EIYARO/corepool
 ```
 
 ### 2) Build source code
